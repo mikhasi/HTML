@@ -1,0 +1,47 @@
+body {
+  background-image: url("bg.png");
+}
+.links {
+  margin-left: 40px;
+  word-spacing: 10px;
+}
+.links a {
+  color: #fff;
+}
+.header {
+  border-bottom: 1px solid #fff;
+  padding-bottom: 20px;
+}
+.content a {
+  color: #fff;
+}
+.content img {
+  width: 250px;
+}
+.samsung {
+  border-bottom: 1px solid #fff;
+  padding-bottom: 20px;
+}
+.apple {
+  border-bottom: 1px solid #fff;
+  padding-bottom: 20px;
+}
+.xiaomi {
+  border-bottom: 1px solid #fff;
+  padding-bottom: 20px;
+}
+.huawei {
+  border-bottom: 1px solid #fff;
+  padding-bottom: 20px;
+}
+.google {
+  border-bottom: 1px solid #fff;
+  padding-bottom: 20px; 
+}
+.footer {
+  height: 50px;
+}
+.footer p {
+  margin-left: 1100px;
+  line-height: 50px;
+}
