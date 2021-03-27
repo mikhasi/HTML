@@ -1,0 +1,54 @@
+body {
+  background-image: url(bg.png);
+}
+
+/* .all {
+  margin-left: 100px;
+  margin-right: 100px;
+} */
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+  padding-left: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  border-bottom: 1px solid #EEEEEE;
+}
+
+img {
+  width: 200px;
+}
+
+.asus {
+  border-bottom: 1px solid #EEEEEE;
+  padding-bottom: 15px;
+}
+
+.lenovo {
+  border-bottom: 1px solid #EEEEEE;
+  padding-bottom: 15px;
+}
+
+.dell {
+  border-bottom: 1px solid #EEEEEE;
+  padding-bottom: 15px;
+}
+
+.footer {
+  padding-left: 800px;
+  padding-top: 10px;
+  line-height: 50px;
+}
+
+.all {
+  margin: 0 150px 0 150px;
+}

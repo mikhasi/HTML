@@ -1,0 +1,27 @@
+.mihasi {
+  color: red;
+  width: 50%;
+  margin-left: 50px;
+}
+body {
+  background: rgba(39,155,244,0.7);
+  /*border-bottom: ridge;*/
+  border: ridge;
+  border-width: 30px;
+  border-color: #ff5;
+}
+.mihasi2 {
+  background-color: rgb(39,155,244);
+}
+.mihasi3 {
+  background: #999;
+}
+.mihasi4 {
+  background: #999;
+}
+.mihasi5 {
+  background: #ff7;
+  font-size: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}

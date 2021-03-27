@@ -1,0 +1,145 @@
+/*3) Переходим к файлу со стилями. Сперва сбросим все отступы:*/
+* {
+    margin: 0;
+    padding: 0;
+}
+html {height: 100%;}
+body {
+    background-color: #f5f5f5;
+    height: 100%;
+}
+
+#wrap {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #fff;
+    min-height: 100%;
+    position: relative;
+}
+#header {
+    height: 232px;
+    background: url(header.jpg);
+    border-bottom: 5px solid #61a880;
+}
+#content {
+	padding-bottom: 50px;
+}
+#footer {
+    height: 50px;
+    background-color: #ddd;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.content {
+    padding: 20px;
+}
+
+h1 {
+    color: #be9c00;
+    position: absolute;
+    left: 390px;
+    top: 110px;
+  }
+
+table,td,tr,th {
+  border: 1px solid #005a27;
+}
+
+table {
+  border-collapse: collapse;
+  color:  #005a27;
+}
+
+th {
+  text-align: center;
+  padding: 10px;
+  background-color: #eeffe7;
+}
+
+td {
+  padding: 4px 10px 4px 4px;
+  background-color: #eeffe7;
+}
+
+td:hover {
+  padding: 4px 10px 4px 4px;
+  background-color: #6fc293;
+  transition: 0.3s;
+}
+
+.table caption {
+  padding-bottom: 5px;
+  background-color: #eeffe7;
+  margin: 0;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.russian {
+  background-color: #eeffe7;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.russian p {
+  color:  #005a27;
+}
+
+.russian p::first-letter {
+  color:  #005a27;
+  font-size: 32px;
+}
+
+.spanish {
+  background-color: #eeffe7;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.spanish p {
+  color:  #005a27;
+}
+
+.spanish p::first-letter {
+  color:  #005a27;
+  font-size: 32px;
+}
+
+.french {
+  background-color: #eeffe7;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.french p {
+  color:  #005a27;
+}
+
+.french p::first-letter {
+  color:  #005a27;
+  font-size: 32px;
+}
+
+.footer {
+  background-color: #61a880;
+  position: absolute;
+  bottom: 0;
+}
+a {
+  color: #fff;
+}
+
+ul, li{
+  display: inline;
+  font-size: 20px;
+}
+
+ul {
+  padding-left: 480px;
+}
+
+#footer {
+  background-color: #61a880;
+}

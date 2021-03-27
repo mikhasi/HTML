@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  background-color: #F4F1F8;
+}
+
+.wrap {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #be9c00;
+  position: absolute;
+  left: 450px;
+  top: 110px;
+}
+
+img {
+  border-bottom: 5px solid #61a880;
+  width: 100%;
+}
+
+.table {
+  color:  #005a27;
+
+}
+
+.content {
+  padding: 20px;
+  background-color: #fff;
+}
+
+table,td,tr,th {
+  border: 1px solid #005a27;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  text-align: center;
+  padding: 10px;
+  background-color: #eeffe7;
+}
+
+td {
+  padding: 4px 10px 4px 4px;
+  background-color: #eeffe7;
+}
+
+td:hover {
+  padding: 4px 10px 4px 4px;
+  background-color: #6fc293;
+  transition: 0.3s;
+}
+
+.russian {
+  background-color: #eeffe7;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.russian p {
+  color:  #005a27;
+}
+
+.russian p::first-letter {
+  color:  #005a27;
+  font-size: 32px;
+}
+
+.spanish {
+  background-color: #eeffe7;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.spanish p {
+  color:  #005a27;
+}
+
+.spanish p::first-letter {
+  color:  #005a27;
+  font-size: 32px;
+}
+
+.french {
+  background-color: #eeffe7;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.french p {
+  color:  #005a27;
+}
+
+.french p::first-letter {
+  color:  #005a27;
+  font-size: 32px;
+}
+
+.footer {
+  background-color: rgb(97, 168, 128);
+}
+
+a {
+  color: #fff;
+}
+
+ul, li{
+  display: inline;
+  font-size: 20px;
+}
+
+ul {
+  padding-left: 480px;
+}
+
+.footer p {
+  padding-left: 520px;
+  padding-bottom: 20px;
+  color: #fff;
+}

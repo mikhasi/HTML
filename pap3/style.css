@@ -1,0 +1,34 @@
+body {
+  background: #FAF2E5
+}
+
+.page {
+  margin: 0 auto;
+  width: 780px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.h1 {
+  text-align: center;
+  text-transform: uppercase;
+  border-bottom: 1px solid blue;
+  margin: 0 auto;
+  height: 35px;
+}
+
+h3 {
+  color: #f41;
+}
+
+.text {
+  font-style: italic;
+}
+
+.end {
+  list-style: none;
+  margin-left: -40px;
+}

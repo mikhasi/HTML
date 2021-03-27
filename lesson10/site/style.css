@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  background-color: rgba(255,255,0,0.4);
+  height: 150px;
+  line-height: 150px;
+  font-size: 100px;
+}
+.content {
+ height: 400px;
+ line-height: 400px;
+ background: rgba(255,200,200,0.4);
+ font-size: 100px;
+}
+.footer {
+height: 150px;
+line-height: 150px;
+background: rgba(33,33,200,0.4);
+font-size: 100px;
+}
+body {
+  background-image: url("LCCB6.jpg");
+  background-repeat: repeat;
+
+}
+.header, .content, .footer {
+  border-bottom: 2px solid #000;
+  text-transform: uppercase;
+  border-top: 1px solid #000;
+  text-align: center;
+}

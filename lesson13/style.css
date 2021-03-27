@@ -1,0 +1,74 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  border-bottom: 1px solid #000;
+}
+
+.color {
+  color: blue;
+}
+
+.color:hover {
+  color: rgb(142, 218, 22);
+  transition: 0.3s;
+}
+
+.color::selection {
+  background-color: rgb(245, 12, 214);
+}
+
+.color:active {
+  color: rgb(235, 16, 16);
+} 
+
+.link:active {
+  color: rgb(238, 17, 238);
+}
+/* 
+.link:visited {
+  color: aqua;
+} */
+
+.first-letter p:first-letter {
+  color: blue;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: Arial, sans-serif;
+}
+
+.q q:before {
+  content: "«" ; color: blue;
+}
+
+.q q::after {
+  content: "»" ; color: rgb(255, 0, 0);
+}
+
+.orange {
+  background-color: rgb(87, 109, 204);
+}
+
+.orange::before {
+  content: "It is there";
+  background-color: rgb(236, 148, 47);
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.table1 td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.blue {
+  background-color: rgb(104, 187, 255);
+}
+
+.yellow {
+  background-color: rgb(253, 255, 112);
+}

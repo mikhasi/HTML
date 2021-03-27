@@ -1,0 +1,36 @@
+table,tr,td {
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 30px;
+}
+
+table {
+  margin: 0 auto;
+}
+
+.colored1 {
+  background-color: #2bfdce;
+}
+
+.colored2 {
+  background-color: #fffecd;
+}
+
+.colored3 {
+  background-color: #fb0d1b;
+}
+
+.colored4 {
+  background-color: #29fd2f;
+}
+
+.colored5 {
+  background-color: #0b24fa;
+}
+
+.colored6 {
+  background-color: #fffd38;
+}

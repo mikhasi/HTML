@@ -1,0 +1,36 @@
+.header {
+  background-color: rgba(255,255,0,0.5);
+  height: 150px;
+  font-size: 100px;
+  /*padding-top: 25px;*/
+}
+.content {
+ height: 400px;
+ background: #dcdcdd;
+ /*padding-top: 150px;*/
+ font-size: 100px;
+}
+.footer {
+height: 150px;
+background: rgba(33,33,200,0.5);
+font-size: 100px;
+/*padding-top: 20px;*/
+}
+body {
+  margin: 0px;
+}
+.header, .content, .footer {
+  border-bottom: 2px solid #000;
+  text-transform: uppercase;
+  border-top: 1px solid #000;
+  text-align: center;
+}
+.header p {
+  margin: 10px;
+}
+.content p {
+  margin: 150px;
+}
+.footer p {
+  margin: 5px;
+}

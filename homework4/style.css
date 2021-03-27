@@ -1,0 +1,73 @@
+table, table td {
+  text-align: center;
+  border: 1px solid gray;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: 500px;
+}
+
+.spring {
+  background-color: rgb(33, 180, 33);
+}
+
+.march {
+  background-color: rgb(40, 163, 40);
+}
+
+.april {
+  background-color: rgb(45, 153, 45);
+}
+
+.may {
+  background-color: rgb(45, 145, 45);
+}
+
+.summer {
+  background-color: rgb(89, 161, 40);
+}
+
+.june {
+  background-color: rgb(97, 187, 37);
+}
+
+.july {
+  background-color: rgb(100, 199, 33);
+}
+
+.august {
+  background-color: rgb(127, 231, 29);
+}
+
+.atumn {
+  background-color: rgb(234, 238, 23);
+}
+
+.september {
+  background-color: rgb(216, 219, 25);
+}
+
+.october {
+  background-color: rgb(196, 199, 33);
+}
+
+.november {
+  background-color: rgb(176, 179, 38);
+}
+
+.winter {
+  background-color: rgb(24, 191, 233);
+}
+
+.december {
+  background-color: rgb(27, 177, 214);
+}
+
+.january {
+  background-color: rgb(33, 167, 201);
+}
+
+.february {
+  background-color: rgb(36, 156, 185);
+}

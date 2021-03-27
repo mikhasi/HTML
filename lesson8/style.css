@@ -1,0 +1,57 @@
+body {
+  /*background: rgba(44,237,243,0.8);*/
+  background-image: url(how-to-ask-for-help.jpg);
+  background-attachment: fixed;
+}
+
+p {
+  font-size: 20px
+}
+
+p.mihasi {
+  word-spacing:20px
+}
+
+p.mihasi {
+     font-style: italic;
+}
+
+p.mihasi1 {
+  font-weight: 900
+}
+
+p.mihasi2 {
+  font-weight: 100
+}
+
+p.mihasi3 {
+  line-height: 50px
+}
+
+p.underline {
+  text-decoration: underline;
+}
+
+p.overline {
+  text-decoration: overline;
+}
+
+p.line-through {
+  text-decoration: line-through;
+}
+
+p.blink {
+  text-decoration: blink;
+}
+
+p.capitalize {
+  text-transform: capitalize;
+}
+
+p.justify {
+  text-align: justify
+}
+
+div.background {
+  height: 2000px
+}

@@ -1,0 +1,19 @@
+.table1 {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  width: 650px;
+}
+
+.th1 {
+  border: 2px solid grey;
+}
+
+.td1 {
+  border: 3px solid grey;
+}
+
+.td2 {
+  border: 3px solid grey;
+  text-align: center;
+  font-weight: bold;
+}
